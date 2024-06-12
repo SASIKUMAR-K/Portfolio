@@ -1,5 +1,15 @@
 {
   "projects": {
     "default": "sasi4dev"
-  }
+  },
+  "targets": {
+    "sasi4dev": {
+      "hosting": {
+        "sasiportfolio": [
+          "sasiportfolio"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
