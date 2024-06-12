@@ -1,9 +1,9 @@
 {
   "projects": {
-    "default": "sasi4dev"
+    "default": "overall-project-b04ff"
   },
   "targets": {
-    "sasi4dev": {
+    "overall-project-b04ff": {
       "hosting": {
         "sasiportfolio": [
           "sasiportfolio"
